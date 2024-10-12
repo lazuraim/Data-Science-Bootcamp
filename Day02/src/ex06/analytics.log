@@ -1,0 +1,33 @@
+2024-03-25 14:39:25,776 Checking format of the file
+2024-03-25 14:39:25,777 Checking header
+2024-03-25 14:39:25,777 Checking delimiters
+2024-03-25 14:39:25,777 Checking format of lines
+2024-03-25 14:39:25,777 Checking delimiters
+2024-03-25 14:39:25,777 Checking format of lines
+2024-03-25 14:39:25,777 Checking delimiters
+2024-03-25 14:39:25,777 Checking format of lines
+2024-03-25 14:39:25,777 Checking delimiters
+2024-03-25 14:39:25,777 Checking format of lines
+2024-03-25 14:39:25,777 Checking delimiters
+2024-03-25 14:39:25,777 Checking format of lines
+2024-03-25 14:39:25,777 Checking delimiters
+2024-03-25 14:39:25,777 Checking format of lines
+2024-03-25 14:39:25,777 Checking delimiters
+2024-03-25 14:39:25,777 Checking format of lines
+2024-03-25 14:39:25,777 Checking delimiters
+2024-03-25 14:39:25,777 Checking format of lines
+2024-03-25 14:39:25,777 Checking delimiters
+2024-03-25 14:39:25,777 Checking format of lines
+2024-03-25 14:39:25,777 Checking delimiters
+2024-03-25 14:39:25,777 Checking format of lines
+2024-03-25 14:39:25,777 Checking delimiters
+2024-03-25 14:39:25,777 Checking format of lines
+2024-03-25 14:39:25,777 Reading file
+2024-03-25 14:39:25,778 Checking header
+2024-03-25 14:39:25,778 Calculating the counts of heads and tails
+2024-03-25 14:39:25,778 Calculating the percentage of heads and tails
+2024-03-25 14:39:25,778 Predicting observations of heads and tails
+2024-03-25 14:39:25,778 Counting heads and tails in prediction
+2024-03-25 14:39:25,778 Saving report file
+2024-03-25 14:39:25,784 Starting new HTTPS connection (1): api.telegram.org:443
+2024-03-25 14:39:26,076 https://api.telegram.org:443 "GET /bot7035160312:AAEzu2UDo4nbz3UHBnAb870LAXv_sHIUB0o/sendMessage?chat_id=358955238&text=The+report+has+been+successfully+created HTTP/1.1" 200 319

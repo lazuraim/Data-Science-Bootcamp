@@ -1,0 +1,13 @@
+         121829 function calls (121807 primitive calls) in 21.987 seconds
+
+   Ordered by: cumulative time
+   List reduced from 429 to 5 due to restriction <5>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   21.987   21.987 .\financial_enhanced.py:10(yahoo_parser)
+        1    0.000    0.000   21.141   21.141 C:\Program Files\Python38\lib\http\client.py:1227(request)
+        1    0.000    0.000   21.141   21.141 C:\Program Files\Python38\lib\http\client.py:1232(_send_request)
+        1    0.000    0.000   21.141   21.141 C:\Program Files\Python38\lib\http\client.py:1214(endheaders)
+        1    0.000    0.000   21.141   21.141 C:\Program Files\Python38\lib\http\client.py:995(_send_output)
+
+
